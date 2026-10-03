@@ -2,6 +2,10 @@
 
 ArcSense is a student productivity and workload management app built with React Native and Expo.
 
+## Preview
+
+![ArcSense Home Screen](assets/screenshots/home.png)
+
 It helps students organize tasks, track deadlines, estimate workload, and identify tasks that may need attention.
 
 ## Features
